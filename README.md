@@ -46,6 +46,6 @@
 
 **Berdasarkan KETENTUAN berikut:**
 * [cite_start]**Atribusi (Attribution):** Anda **WAJIB** mencantumkan nama pembuat asli (Arumata/Author), memberikan tautan ke lisensi, dan menyatakan apakah ada perubahan yang dibuat. 
-* [cite_start]**Non-Komersial (NonCommercial):** Anda **DILARANG KERAS** menggunakan materi ini (termasuk *prompt* AI-nya) untuk tujuan komersial, mencari keuntungan finansial, atau memonetisasinya dalam produk berbayar.  [cite_start]Kebijaksanaan ini adalah milik umat manusia, bukan komoditas kapitalis. 
+* [cite_start]**Attribution-NonCommercial 4.0 International**
 
 [cite_start]Teks lengkap lisensi dapat dibaca di file `LICENSE` dalam repositori ini.
