@@ -39,7 +39,7 @@ Bagi pembaca manusia yang ingin mendalami filosofi Trisulawedha secara utuh, dok
 
 ## Lisensi & Hak Cipta (PENTING)
 
-Proyek ini, termasuk kerangka filosofis dan *Prompt Engineering Payload* di dalamnya, dilisensikan di bawah **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Proyek ini, termasuk kerangka filosofis dan *Prompt Engineering Payload* di dalamnya, dilisensikan di bawah **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**.
 
 **Anda BEBAS untuk:**
 * **Berbagi (Share):** Menyalin dan mendistribusikan ulang materi ini dalam format atau media apa pun.
