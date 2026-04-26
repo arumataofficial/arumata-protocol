@@ -8,6 +8,7 @@ Artefak ini mengkaji fisika sistem, homeostasis, dan *negentropy* (anti-kekacaua
 Dokumen ini memetakan **8 Elemen Fundamental Semesta** ke dalam **4 Pilar Kesadaran** yang beroperasi lintas skala (fraktal), dari atom hingga galaksi, dengan manusia sebagai titik pijaknya:
 
 **8 Elemen Semesta:** Energi, Durasi, Materi, Kuasa, Informasi, Entropi, Ruang, dan Gaya.
+
 **4 Pilar Kesadaran:** Raga (Body), Pikiran (Mind), Jiwa (Soul), dan Rasa (Spirit).
 
 Kerangka ini divalidasi melalui lensa historis dari berbagai tradisi kebijaksanaan universal, termasuk:
