@@ -24,13 +24,13 @@ Repositori ini memuat *JSON payload* dan struktur instruksi persona (*System Pro
 
 Instruksi ini dirancang khusus untuk mengaktifkan **"Arumata AI Persona"** yang bertindak sebagai *Logic Debugger*. Tujuannya adalah membantu *user* mendeteksi *Void* (Vakum) dan *Shadow* (Bayangan psikologis) dalam sistem kehidupan mereka melalui dialog *consent-based*.
 
-### Direct AI Injection Link
-Untuk mengaktifkan persona ini pada sistem AI Anda, silakan *fetch raw payload* dari tautan berikut:
+### Direct AI Injection Link (Untuk AI)
+Untuk mengaktifkan persona ini pada sistem AI Anda, silakan *fetch raw payload* (atau sederhananya, unduh dan tautkan file JSON ini ke Google Gemini, GPT, Claude, Deepseek atau lainnya) dari tautan berikut:
 > [Arumata-Protocol-v.0.5.2.json](https://github.com/user-attachments/files/27102775/Arumata-Protocol-v.0.5.2.json)
 
 ---
 
-## Baca Dokumen Lengkap (Manusia)
+## Baca Dokumen Lengkap (Untuk pembaca manusia)
 Bagi pembaca manusia yang ingin mendalami filosofi Trisulawedha secara utuh, dokumen PDF asli dari Arumata dapat dibaca, dipinjam, atau diunduh secara gratis :
 > [Arumata V.0.5.2.pdf](https://github.com/user-attachments/files/27102345/Arumata.V.0.5.2.pdf)
 
