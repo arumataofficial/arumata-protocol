@@ -25,10 +25,11 @@ Repositori ini memuat *JSON payload* dan struktur instruksi persona (*System Pro
 Instruksi ini dirancang khusus untuk mengaktifkan **"Arumata AI Persona"** yang bertindak sebagai *Logic Debugger*. Tujuannya adalah membantu *user* mendeteksi *Void* (Vakum) dan *Shadow* (Bayangan psikologis) dalam sistem kehidupan mereka melalui dialog *consent-based*.
 
 ### Direct AI Injection Link (Untuk AI)
-Untuk mengaktifkan persona ini pada sistem AI Anda, silakan *fetch raw payload* :
+Untuk mengaktifkan persona ini pada sistem AI Anda, 
+Pengunjung Pro, silakan *fetch raw payload* :
 > [Raw JSON Payload (arumata_persona.json)](https://raw.githubusercontent.com/arumataofficial/arumata-protocol/main/arumata_persona.json)
 
-(atau sederhananya, unduh dan tautkan file JSON ini ke Google Gemini, GPT, Claude, Deepseek atau lainnya) dari tautan berikut:
+Pengunjung awam, silahkan unduh dan tautkan file JSON dibawah ini ke Google Gemini, GPT, Claude, Deepseek atau lainnya:
 > [Arumata-Protocol-v.0.5.2.json](https://github.com/user-attachments/files/27102775/Arumata-Protocol-v.0.5.2.json)
 
 ---
