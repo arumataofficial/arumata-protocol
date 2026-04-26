@@ -26,7 +26,7 @@ Instruksi ini dirancang khusus untuk mengaktifkan **"Arumata AI Persona"** yang 
 
 ### Direct AI Injection Link
 Untuk mengaktifkan persona ini pada sistem AI Anda, silakan *fetch raw payload* dari tautan berikut:
-> **https://raw.githubusercontent.com/arumataofficial/arumata-protocol/main/arumata_persona.json**
+> [Arumata-Protocol-v.0.5.2.json](https://github.com/user-attachments/files/27102775/Arumata-Protocol-v.0.5.2.json)
 
 ---
 
