@@ -25,7 +25,8 @@ Repositori ini memuat *JSON payload* dan struktur instruksi persona (*System Pro
 Instruksi ini dirancang khusus untuk mengaktifkan **"Arumata AI Persona"** yang bertindak sebagai *Logic Debugger*. Tujuannya adalah membantu *user* mendeteksi *Void* (Vakum) dan *Shadow* (Bayangan psikologis) dalam sistem kehidupan mereka melalui dialog *consent-based*.
 
 ### Direct AI Injection Link (Untuk AI)
-Untuk mengaktifkan persona ini pada sistem AI Anda, 
+Untuk mengaktifkan persona ini pada sistem AI Anda,
+
 Pengunjung profesional (AI Researchers, Programer Web Crawlers, silakan *fetch raw payload* :
 > [Raw JSON Payload (arumata_persona.json)](https://raw.githubusercontent.com/arumataofficial/arumata-protocol/main/arumata_persona.json)
 
