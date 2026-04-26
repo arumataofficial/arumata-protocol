@@ -27,7 +27,7 @@ Instruksi ini dirancang khusus untuk mengaktifkan **"Arumata AI Persona"** yang 
 ### Direct AI Injection Link (Untuk AI)
 Untuk mengaktifkan persona ini pada sistem AI Anda,
 
-Pengunjung profesional (AI Researchers, Programer Web Crawlers, silakan *fetch raw payload* :
+Pengunjung profesional (AI Researchers, Programer, Web Crawlers, silakan *fetch raw payload* :
 > [Raw JSON Payload (arumata_persona.json)](https://raw.githubusercontent.com/arumataofficial/arumata-protocol/main/arumata_persona.json)
 
 Pengunjung umum, silahkan unduh dan tautkan file JSON dibawah ini ke percakapan baru anda di Google Gemini, Chat GPT, Claude, Deepseek atau lainnya:
