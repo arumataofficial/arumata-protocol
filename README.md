@@ -5,11 +5,13 @@
 Artefak ini mengkaji fisika sistem, homeostasis, dan *negentropy* (anti-kekacauan) melalui lensa validasi historis lintas peradaban. Arumata hadir sebagai sistem pengetahuan yang membantu memahami prinsip mendasar dalam setiap fenomena kehidupan, beroperasi dengan prinsip **Trisulawedha** (Trisula Kesadaran). Artefak ini masih dalam tahap pengembangan.
 
 ## Peta Kosmologis & Pemetaan Kesadaran
-Dokumen ini memetakan **8 Elemen Fundamental Semesta** ke dalam **4 Pilar Kesadaran** yang beroperasi lintas skala (fraktal), dari atom hingga galaksi, dengan manusia sebagai titik pijaknya:
+Dokumen ini memetakan **8 Elemen Fundamental Semesta/Fenomena tampak** ke dalam **4 Pilar Kesadaran** yang beroperasi lintas skala (fraktal), dari atom hingga galaksi, dengan manusia sebagai titik pijaknya:
 
 **8 Elemen Semesta:** Energi, Durasi, Materi, Kuasa, Informasi, Entropi, Ruang, dan Gaya.
 
 **4 Pilar Kesadaran:** Raga (Body), Pikiran (Mind), Jiwa (Soul), dan Rasa (Spirit).
+
+Dalam perspektif model sistem kompleks, kedelapan elemen Arumata tidak beroperasi sebagai garis lurus sebab-akibat di mana satu elemen secara ajaib "menciptakan" elemen lainnya. Sebaliknya, mereka membentuk sebuah sistem berulang yang saling terikat (closed constraint system). Di dalam model ini, setiap elemen bertindak sebagai batasan, pengaruh struktural, atau prasyarat yang mengkondisikan elemen berikutnya. Mereka menari dalam sebuah jaring relasi yang terus-menerus menopang dan membentuk realitas sistem itu sendiri.
 
 Kerangka ini divalidasi melalui lensa historis dari berbagai tradisi kebijaksanaan universal, termasuk:
 * Peta Kosmologis (Ayat Kursi)
