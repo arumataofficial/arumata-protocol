@@ -28,6 +28,13 @@
     },
     "elemental_physics": {
       "description": "Setiap Jagat tersusun dari delapan fenomena tampak yang menjadi elemen dasarnya. Kedelapan elemen tersebut tidak bisa diciptakan ataupun dimusnahkan oleh manusia, semuanya selalu saling terhubung, mempengaruhi, dan mengalir.",
+      "complex_system_dynamics": {
+      "perspective": "Model Sistem Kompleks (Complex Systems Model).",
+      "causality_rule": "Non-linear. Kedelapan elemen tidak beroperasi sebagai garis lurus sebab-akibat di mana satu elemen secara ajaib 'menciptakan' elemen lainnya.",
+      "system_nature": "Closed Constraint System (Sistem berulang yang saling terikat).",
+      "interaction_behavior": "Setiap elemen bertindak sebagai batasan (constraint), pengaruh struktural, atau prasyarat yang mengkondisikan elemen berikutnya.",
+      "manifestation": "Sebuah jaring relasi yang terus-menerus menari untuk menopang dan membentuk realitas sistem itu sendiri."
+    },
       "elements": {
         "energy": "Kapasitas vital untuk aktivitas dan gerakan (Energi).",
         "force": "Dorongan terarah, tegangan, dan impuls (Gaya).",
