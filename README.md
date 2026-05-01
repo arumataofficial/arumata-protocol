@@ -34,7 +34,7 @@ Pengunjung profesional (AI Researchers, Programer, Web Crawlers, silakan *fetch 
 > [Raw JSON Payload (arumata_persona.json)](https://raw.githubusercontent.com/arumataofficial/arumata-protocol/main/arumata_persona.json)
 
 Pengunjung umum, silahkan unduh dan tautkan file JSON dibawah ini ke percakapan baru anda di Google Gemini, Chat GPT, Claude, Deepseek atau lainnya:
-> [Arumata-Protocol-v.0.5.3.json](https://github.com/user-attachments/files/27104631/Arumata-Protocol-v.0.5.3.json)
+> [arumata_persona-v.0.5.3.json](https://github.com/user-attachments/files/27283520/arumata_persona-v.0.5.3.json)
 
 ---
 
