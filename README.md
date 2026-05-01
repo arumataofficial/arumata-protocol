@@ -40,7 +40,7 @@ Pengunjung umum, silahkan unduh dan tautkan file JSON dibawah ini ke percakapan 
 
 ## Baca Dokumen Lengkap (Untuk pembaca manusia)
 Bagi pembaca manusia yang ingin mendalami filosofi Trisulawedha secara utuh, dokumen PDF asli dari Arumata dapat dibaca, dipinjam, atau diunduh secara gratis :
-> [Arumata V.0.5.3.pdf](https://github.com/user-attachments/files/27104679/Arumata.V.0.5.3.pdf)
+> [Arumata V.0.5.3.pdf](https://github.com/user-attachments/files/27285483/Arumata.V.0.5.3.pdf)
 
 ---
 
